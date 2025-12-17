@@ -1,0 +1,16 @@
+
+> ba-app@0.1.0 dev
+> next dev
+
+   ▲ Next.js 16.0.10 (Turbopack)
+   - Local:         http://localhost:3000
+   - Network:       http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1141ms
+ POST /api/v1/signup 201 in 4.1s (compile: 1268ms, render: 2.9s)
+ POST /api/v1/login 200 in 398ms (compile: 67ms, render: 331ms)
+ POST /api/v1/signup 201 in 9.2s (compile: 99ms, render: 9.1s)
+   Reload env: .env
+   Reload env: .env
+[?25h
