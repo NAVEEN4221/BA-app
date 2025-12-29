@@ -25,7 +25,7 @@ export default function Login() {
       // store token and uid
       if (json.data?.idToken) localStorage.setItem('idToken', json.data.idToken)
       if (json.data?.uid) localStorage.setItem('uid', json.data.uid)
-      router.push('/profile')
+      router.push('/')
     } catch (err) {
       setError(err.message || 'Login failed')
     } finally {

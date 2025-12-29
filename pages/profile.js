@@ -55,6 +55,7 @@ export default function Profile() {
             </div>
           )}
         </section>
+        {/* Feed moved to /feed - profile page only shows profile info */}
       </main>
     </>
   )
